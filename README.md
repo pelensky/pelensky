@@ -35,9 +35,9 @@ A game changer for me was rethinking feedback. There is no such thing as 'positi
 
 This is an over-simiplication, and for every rule there are multiple exceptions, but I choose to assume positive intent and that feedback from people I respect is always them trying to help me on my journey.
 
-Because of this, I give _a lot_ of feedback. I am not implying that I am an expert in anything, just how I may have done something differently. If I am providing feedback, it is because I care about you and/or the project we are working on.
+Because of this, I give _a lot_ of feedback. I am not implying that I am an expert in anything - my feedback is generally just how I may have done something differently. If I am providing feedback, it is because I care about you and/or the project we are working on, and want you to succeed.
 
-Always challenge me on something you don't agree with, and/or tell me if I'm getting too much.
+Always challenge me on something you don't agree with, and/or tell me if I'm getting too much or too picky.
 
 I aim to deliver feedback gently, in a non-confrontationl, friendly way. I tend to raise PR feeback as questions where possible.
 

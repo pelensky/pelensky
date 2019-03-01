@@ -1,7 +1,7 @@
 # Dan Pelensky README
 
 ## Purpose of this document
-Communication is hard. This is a bit of an insight into my mind.
+Communication is hard, but one of the most important things . This is an insight into my mind and how I work.
 
 ## Feedback
 > All Feedback is Kind - [Dana Svoboda](http://www.chiefjoyofficer.com/)
@@ -21,6 +21,8 @@ I get in to work somewhere between 8.30am and 8.45am, and aim to be out the door
 
 I like to eat lunch outside if it's sunny, and in a group if people are around. I make a point of never eating by myself at my desk and continuing to work.
 
+I have Slack on my phone, but notifications disabled.
+
 ## Getting in touch
 Slack is the easiest way to get in touch with me, and I have it on at all times while I'm at work. If I really need to focus I won't check it constantly, but I check at a minimum once an hour.
 
@@ -32,3 +34,11 @@ That being said, I am always happy to have a Slack Call, Google Hangout or Zoom 
 
 I always turn my video on when we have a call, and would appreciate if you do the same, as this is more personal.
 
+## Meetings
+If the outcome of a meeting can be decided or communicated in an email or slack conversation, I would prefer we didn't have the meeting.
+
+I am quite protective of my time, so if I a meeting is optional for me, please let me know. Please don't be offended if I leave a meeting if I don't feel I can add anything to it or it is not relevant to me. That being said, if I am leaving a meeting and you would prefer for me to stay, please let me know.
+
+## I like
+
+## I don't like

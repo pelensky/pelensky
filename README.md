@@ -23,7 +23,7 @@ I like to eat lunch outside if it's sunny, and in a group if people are around. 
 
 I have Slack on my phone, but notifications disabled.
 
-## Getting in touch
+## Reaching me
 Slack is the easiest way to get in touch with me, and I have it on at all times while I'm at work. If I really need to focus I won't check it constantly, but I check at a minimum once an hour.
 
 I only check email at the start and the end of the day.

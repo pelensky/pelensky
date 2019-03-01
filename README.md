@@ -39,6 +39,13 @@ If the outcome of a meeting can be decided or communicated in an email or slack 
 
 I am quite protective of my time, so if I a meeting is optional for me, please let me know. Please don't be offended if I leave a meeting if I don't feel I can add anything to it or it is not relevant to me. That being said, if I am leaving a meeting and you would prefer for me to stay, please let me know.
 
+## I am working on
+- Using inclusive language ('Folks' rather than 'Guys')
+- Not talking over others
+- Not talking down about myself
+- Not apologising for what I don't know
+- Not over committing
+
 ## I like
 
 ## I don't like

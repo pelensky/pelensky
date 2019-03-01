@@ -1,12 +1,10 @@
 # Dan Pelensky README
 
 ## Purpose of this document
-Communication is hard, but effective communication is one of _the_ most important factors for a healthy team. 
-
-This document provides an insight into my mind and how I work.
+Communication is hard, but effective communication is one of _the_ most important factors for a healthy team. This document provides an insight into my mind, and how I work.
 
 ## Working Hours
-I get in to work somewhere between 8.30am and 8.45am, and aim to be out the door by 5.30pm at the latest.
+I get in to work between 8.30am and 8.45am, and aim to be out the door by no later than 5.30pm.
 
 I like to eat lunch outside if it's sunny, and in a group if people are around. I make a point of never eating by myself at my desk and continuing to work.
 
@@ -17,21 +15,23 @@ Slack is the easiest way to get in touch with me, and I have it on at all times 
 
 I only check email at the start and the end of the day.
 
-Please don't call me on the phone - I absolutely hate it when my phone rings when I'm not expecting it to (I think a symptom of working in a call centre in a country in which I have an accent).
+Please don't call me on the phone - I am uncomfortable when my phone rings when I'm not expecting it to (I think a symptom of working in a call centre in a country in which I had an accent).
 
-That being said, I am always happy to have a Slack Call, Google Hangout or Zoom meeting if we plan one; even as simple as sending a Slack message "Hey, can we have a quick call about XYZ" the answer will either be "I'm free now!" or "I'll be free at ${time}!"
+I am always happy to have a Slack Call, Google Hangout or Zoom meeting if we plan one; even as simple as sending a Slack message "Hey, can we have a quick call about XYZ" the answer will either be "I'm free now!" or "I'll be free at ${time}!"
 
-I always turn my video on when we have a call, and would appreciate if you do the same, as this is more personal.
+I always turn my video on when we have a call, and would appreciate if you do the same.
 
 ## Meetings
-If the outcome of a meeting can be decided or communicated in an email or slack conversation, I would prefer we didn't have the meeting.
+If the outcome of a meeting can be communicated or decided in an email or Slack conversation I would prefer we didn't have the meeting.
 
-I am quite protective of my time, so if I a meeting is optional for me, please let me know. Please don't be offended if I leave a meeting if I don't feel I can add anything to it or it is not relevant to me. That being said, if I am leaving a meeting and you would prefer for me to stay, please let me know.
+I am quite protective of my time, so if I a meeting is optional for me, please let me know. 
+
+Please don't be offended if I leave a meeting if I don't feel I can add anything to it or it is not relevant to me and my work. That said if I am leaving a meeting and you would prefer for me to stay, please let me know, and I will be happy to stay.
 
 ## Feedback
 > All Feedback is Kind - [Dana Svoboda](http://www.chiefjoyofficer.com/)
 
-A game changer for me was rethinking feedback. There is no such thing as 'positive' or 'negative' feedback. Feedback is intended to help people grow.
+A game changer for me was rethinking feedback. There is no such thing as 'positive' or 'negative' feedback. Feedback is intended to help people grow, and a gift from the person giving it.
 
 This is an over-simiplication, and for every rule there are multiple exceptions, but I choose to assume positive intent and that feedback from people I respect is always them trying to help me on my journey.
 

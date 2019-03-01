@@ -6,7 +6,7 @@ Communication is hard, but effective communication is one of _the_ most importan
 ## Working Hours
 I get in to work between 8.30am and 8.45am, and aim to be out the door by no later than 5.30pm.
 
-I like to eat lunch outside if it's sunny, and in a group if people are around. I make a point of never eating by myself at my desk and continuing to work.
+I like to eat lunch outside if it's sunny! I appreciate the social aspect of eating lunch as a group, as well as taking a break, so you won't find me eating at my desk while continuing to work.
 
 I have Slack on my phone, but notifications disabled.
 
@@ -17,14 +17,14 @@ I only check email at the start and the end of the day.
 
 Please don't call me on the phone - I am uncomfortable when my phone rings when I'm not expecting it to (I think a symptom of working in a call centre in a country in which I had an accent).
 
-I am always happy to have a Slack Call, Google Hangout or Zoom meeting if we plan one; even as simple as sending a Slack message "Hey, can we have a quick call about XYZ" the answer will either be "I'm free now!" or "I'll be free at ${time}!"
+I am always happy to have a Slack Call, Google Hangout or Zoom meeting if we plan it in advance; even if that planning is as simple as sending a Slack message "Hey, can we have a quick call about XYZ" the answer will either be "I'm free now!" or "I'll be free at ${time}!"
 
-I always turn my video on when we have a call, and would appreciate if you do the same.
+I always turn my video on when we have a call, and would appreciate if you do the same. Please don't feel like you have to turn on your video if you are not comfortable doing so.
 
 ## Meetings
 If the outcome of a meeting can be communicated or decided in an email or Slack conversation I would prefer we didn't have the meeting.
 
-I am quite protective of my time, so I am not required to attend a meeting you've invited me to, please let me know.
+I am quite protective of my time, so if I am not required to attend a meeting you've invited me to, please let me know.
 
 Please don't be offended if I leave a meeting if I don't feel I can add anything to it or it is not relevant to me and my work. That said if I am leaving a meeting and you would prefer for me to stay, please let me know, and I will be happy to stay.
 
@@ -39,7 +39,9 @@ Because of this, I give _a lot_ of feedback. I am not implying that I am an expe
 
 Always challenge me on something you don't agree with, and/or tell me if I'm getting too much or too picky.
 
-I aim to deliver feedback gently, in a non-confrontationl, friendly way. I tend to raise PR feeback as questions where possible.
+I aim to deliver feedback gently, in a non-confrontational, friendly way. I tend to raise PR feedback as questions where possible.
+
+I also like to amplify people I work with, so make a point of sending shoutouts in public channels. Please let me know if you are not comfortable with this.
 
 I ask that you give me as much constructive feedback as possible as I want to continue to grow. Please be mindful of delivering it gently.
 

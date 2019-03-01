@@ -1,20 +1,9 @@
 # Dan Pelensky README
 
 ## Purpose of this document
-Communication is hard, but one of the most important things . This is an insight into my mind and how I work.
+Communication is hard, but effective communication is one of _the_ most important factors for a healthy team. 
 
-## Feedback
-> All Feedback is Kind - [Dana Svoboda](http://www.chiefjoyofficer.com/)
-
-A game changer for me was rethinking feedback. There is no such thing as 'positive' or 'negative' feedback. Feedback is intended to help people grow.
-
-This is an oversimiplication, and for every rule there are multiple exceptions, but I choose to assume positive intent, and that feedback from people I respect is always them trying to help me on my journey. 
-
-Because of this, I give _a lot_ of feedback. I am not implying that I am an expert in anything, just how I may have done something differently.
-
-Always challenge me on something you don't agree with, and/or tell me if I'm getting too much.
-
-In adition, I ask that you give me as much constructive feedback as possible, as I want to continue to grow.
+This document provides an insight into my mind and how I work.
 
 ## Working Hours
 I get in to work somewhere between 8.30am and 8.45am, and aim to be out the door by 5.30pm at the latest.
@@ -39,13 +28,21 @@ If the outcome of a meeting can be decided or communicated in an email or slack 
 
 I am quite protective of my time, so if I a meeting is optional for me, please let me know. Please don't be offended if I leave a meeting if I don't feel I can add anything to it or it is not relevant to me. That being said, if I am leaving a meeting and you would prefer for me to stay, please let me know.
 
-## I am working on
-- Using inclusive language ('Folks' rather than 'Guys')
-- Not talking over others
-- Not talking down about myself
-- Not apologising for what I don't know
-- Not over committing
+## Feedback
+> All Feedback is Kind - [Dana Svoboda](http://www.chiefjoyofficer.com/)
 
-## I like
+A game changer for me was rethinking feedback. There is no such thing as 'positive' or 'negative' feedback. Feedback is intended to help people grow.
 
-## I don't like
+This is an oversimiplication, and for every rule there are multiple exceptions, but I choose to assume positive intent, and that feedback from people I respect is always them trying to help me on my journey. Because of this, I give _a lot_ of feedback. I am not implying that I am an expert in anything, just how I may have done something differently. If I am providing feedback, it is because I care about you and/or the project we are working on.
+
+Always challenge me on something you don't agree with, and/or tell me if I'm getting too much.
+
+I aim to deliver feedback gently, in a non-confrontationl, friendly way. I tend to raise PR feeback as questions where possible.
+
+I ask that you give me as much constructive feedback as possible, as I want to continue to grow. Please be mindful of delivering it gently.
+
+## I am actively working on, and would appreciate being called out if I am:
+- Not using inclusive language ('Folks' rather than 'Guys')
+- Talking over others, even when I get excited
+- Talking down about myself or my skills
+- Overextending myself

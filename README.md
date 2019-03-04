@@ -46,7 +46,7 @@ I also like to amplify people I work with, so make a point of sending shoutouts 
 I ask that you give me as much constructive feedback as possible as I want to continue to grow. Please be mindful of delivering it gently.
 
 ## I am actively trying to avoid, and would appreciate being called out if you see me:
-- Not using inclusive language (ie. saying 'Guys' rather that 'Folks')
+- Not using inclusive language (ie. saying 'Guys' rather than 'Folks')
 - Talking over others, even when I get excited
 - Talking down about myself or my skills
 - Overextending myself

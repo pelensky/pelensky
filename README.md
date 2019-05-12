@@ -4,9 +4,9 @@
 Communication is hard, but effective communication is one of _the_ most important factors for a healthy team. This document provides an insight into my mind, and how I work.
 
 ## Working Hours
-I get in to work between 8.30am and 8.45am, and aim to be out the door by no later than 5.30pm.
+I start work somewhere between 8.30am and 9am, and aim to finish by no later than 5.30pm.
 
-I like to eat lunch outside if it's sunny! I appreciate the social aspect of eating lunch as a group, as well as taking a break, so you won't find me eating at my desk while continuing to work.
+I like to eat lunch outside if it's sunny! I appreciate taking a break so you won't find me eating while continuing to work. If there are other people around, I like the social aspect of having lunch together.
 
 I have Slack on my phone, but notifications disabled.
 
@@ -15,7 +15,7 @@ Slack is the easiest way to get in touch with me, and I have it on at all times 
 
 I only check email at the start and the end of the day.
 
-Please don't call me on the phone - I am uncomfortable when my phone rings when I'm not expecting it to (I think a symptom of working in a call centre in a country in which I had an accent).
+Please don't call me on the phone if it is avoidable - I am uncomfortable when my phone rings when I'm not expecting it to (I think a symptom of working in a call centre in a country in which I had an accent).
 
 I am always happy to have a Slack Call, Google Hangout or Zoom meeting if we plan it in advance; even if that planning is as simple as sending a Slack message "Hey, can we have a quick call about XYZ" the answer will either be "I'm free now!" or "I'll be free at ${time}!"
 

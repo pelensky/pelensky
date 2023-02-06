@@ -12,14 +12,14 @@ I enjoy working remotely and communicating asynchronously, and offer my services
 
 ## Professional Experience
 
-### Rail Europe | Principal Software Engineer | November 2019 - Current
+### Rail Europe | Principal Software Engineer
 I currently work at Rail Europe, a platform that provides customers the option to book travel on various rail operators without having to book through the operators directly. As a Principal Software Engineer, I work on the customer-facing website and have the following highlights:
 - Oversee the B2C (customer-facing website) in a fully remote team working through all different timezones building features for the website. Tech Stack: Ruby, Rails, React, AWS (EC2, S3)
 - Single-handedly extended the website to support travel pass sales, the company's biggest new offering since its inception. Tech Stack: Ruby, Rails, React
 - Own the mobile apps (iOS/Android) and the API they consume. Tech Stack: Ruby, Rails, React, Swift, Kotlin
 
 ### 8th Light | Lead Software Crafter
-Prior to this, I worked at 8th Light, a software and web development consultancy that values continuous learning and crafting clean, durable, and elegant code. As a consultant, I worked on various clients and domains and have the following highlights:
+Prior to joining Rail Europe, I worked at 8th Light, a software and web development consultancy that values continuous learning and crafting clean, durable, and elegant code. As a consultant, I worked on various clients and domains and have the following highlights:
 - Joined an established remote team as tech lead, quickly ramped up on a new domain and technologies. Onboarded and mentored team members in Ukraine and Mexico, both remotely and face-to-face. Tech Stack: Python, Django, React, AWS (EC2, S3), ElasticSearch, Ansible
 - Designed and led an initiative to build a private REST API in a large Django app to separate out admin routes from the public-facing API, creating a separate component for administrative tasks not suited to Django Admin. Tech Stack: Python, Django, Django REST, Pytest, React
 - Built an Electron app deployed on public-facing self-service terminals. Tech Stack: JavaScript, React, Electron, Node, Mocha, Chai
@@ -28,7 +28,9 @@ Prior to this, I worked at 8th Light, a software and web development consultancy
 - Mentored an apprentice, providing training and support during their first job in the tech industry, and acted as a professional development manager (line manager).
 
 ## Working Hours
-My typical work hours are 7:30am to 3-4pm. I prefer to start my day with a gym session and start work immediately after. I aim to maintain similar hours while traveling, considering time zones and other commitments.
+I primarily operate within the Mountain Time Zone (UTC-7), although I frequently travel and adjust my work schedule to align with my current location. I prefer to start and finish work early (ie. 7:30-15:30), starting my day with a gym session and promptly diving into work.
+
+When traveling, I strive to maintain a similar routine, taking into account time zones and other obligations.
 
 When in person I enjoy socializing with my colleagues, especially over lunch. Slack is my preferred mode of communication and I have it on at all times, but with notifications disabled.
 

@@ -1,22 +1,23 @@
-# Dan Pelensky - Personal README
+# Dan Pelensky - README
 
 ## Introduction
 This document provides as an insight into my work history, work style and how to effectively communicate with me. The overarching theme is that I believe believe clear and kind communication is key, as it is essential for a productive and healthy team.
 
 ## About Me
-I am a passionate and experienced Software Engineer with a strong focus on writing quality, fully tested, and extensible code. I am a pragmatist who understands when and how to apply these principles in real-world scenarios. I value inclusivity, feedback, communication, and continual growth.
+I am a versatile Software Engineer passionate about crafting high-quality, maintainable code with comprehensive test coverage. As a polyglot developer, I've successfully worked across multiple languages, technologies, and programming paradigms.
 
-As a polyglot engineer, I have worked with a variety of different languages, technologies, and paradigms, allowing me to quickly pick up new tools and technologies as needed.
+My values include inclusive collaboration, constructive feedback, and continuous learning.
 
-I enjoy working remotely and communicating asynchronously, and offer my services on a contract basis through my company, Pelensky Technology Inc.
+I'm a strong advocate for remote work and asynchronous communication and have shared my knowledge through public speaking engagements. My engineering philosophy balances technical excellence with practical solutions, ensuring we deliver value while maintaining code quality and extensibility.
 
 ## Professional Experience
 
 ### Rail Europe | Principal Software Engineer
-I currently work at Rail Europe, a platform that provides customers the option to book travel on various rail operators without having to book through the operators directly. As a Principal Software Engineer, I work on the customer-facing website and have the following highlights:
-- Oversee the B2C (customer-facing website) in a fully remote team working through all different timezones building features for the website. Tech Stack: Ruby, Rails, React, AWS (EC2, S3)
-- Single-handedly extended the website to support travel pass sales, the company's biggest new offering since its inception. Tech Stack: Ruby, Rails, React
-- Own the mobile apps (iOS/Android) and the API they consume. Tech Stack: Ruby, Rails, React, Swift, Kotlin
+I am currently engaged full time with Rail Europe - is a platform that provides customers the option to book travel on a number of different rail operators without having to understand the routes and carriers. I worked on the customer facing website. Some career highlights include
+- Led architectural design and front-end development team in platform modernisation initiative, expanding the Business-to-Business (B2B) backend to support new Business-to-Customer (B2C) capabilities while reducing system complexity and duplication. Tech Stack: Svelte, Sveltekit, Ruby, Rails, AWS (EC2, S3)
+- Oversaw the B2C in a fully remote team working through all different timezones building features for their customer facing website, bringing in the majority of the company’s revenue during a pandemic. Tech Stack: Ruby, Rails, React, AWS (EC2, S3)
+Single handedly extended the website to support unlimited travel pass sales, the biggest new offering for the company since its inception. Tech Stack: Ruby, Rails, React
+- Owned the mobile apps (iOS/Android) and the API they consumed Tech Stack: Ruby, Rails, React, Swift, Kotlin
 
 ### 8th Light | Lead Software Crafter
 Prior to joining Rail Europe, I worked at 8th Light, a software and web development consultancy that values continuous learning and crafting clean, durable, and elegant code. As a consultant, I worked on various clients and domains and have the following highlights:
@@ -32,25 +33,14 @@ I primarily operate within the Mountain Time Zone (UTC-7), although I frequently
 
 When traveling, I strive to maintain a similar routine, taking into account time zones and other obligations.
 
-When in person I enjoy socializing with my colleagues, especially over lunch. Slack is my preferred mode of communication and I have it on at all times, but with notifications disabled.
-
 ## Communication
-You can reach me through Slack, which I check at least once an hour even when doing focused work. I only check my email twice a day (start and end of the day). If you need to reach me, it's best to send me a Slack message. I prefer not to receive phone calls or unexpected video calls, but I am always available for pre-planned video calls. I usually turn on my video during calls and appreciate if you do the same, but please don't feel obliged if you're not comfortable with it.
+You can reach me through Slack, which I check at least once an hour even when doing focused work. I check my email twice a day (start and end of the day). If you need to reach me, it's best to send me a Slack message. I prefer not to receive phone calls or unexpected video calls, but I am always available for pre-planned video calls. I usually turn on my video during calls and appreciate if you do the same, but please don't feel obliged if you're not comfortable with it.
 
 ## Meetings
-I believe that meetings should only be held if necessary, and their outcome can't be achieved through emails or Slack conversations. If I am not required to attend a meeting, please let me know. If I am invited to a meeting, I would appreciate an agenda in advance, and I try to avoid recurring status update meetings.
+I believe that meetings should only be held if necessary, and their outcome can't be achieved through emails or written communication. In my experience, the same people tend to speak the most in meetings and usually the loudest person gets their way. I find with written communication, people are able to be more considered, and those who may not speak up as much in meetings can have their points heard.
 
 ## Feedback
 I embrace feedback as a means of growth and improvement. I believe that all feedback is kind, and that feedback from those I respect is always intended to help me grow; this goes both ways, and I strive to share feedback as much as possible. I aim to provide constructive feedback, phrasing my feedback as questions where possible, and amplify my colleagues by sending public shoutouts. I always strive to deliver my feedback gently, and appreciate receiving it in this way as well.
-
-## Personal Goals
-I am continuously working on personal growth and strive to avoid:
-
-* Using exclusive language (ie. calling a group of people 'guys')
-* Interrupting others even when I am excited about a topic
-* Negative self-talk
-* Overextending myself
-If you notice me engaging in any of these behaviors, I would appreciate you bringing it to my attention.
 
 ## Connect with me
 - Website: [www.pelensky.com](https://www.pelensky.com)
